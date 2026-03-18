@@ -1,4 +1,4 @@
-# Hardware_Transportation_Repair
+# Hardware and Transportation Maintenance and Repairs
 
 ## I. Overview
 This folder documents the **hardware maintenance, repair, and electronic system hardening** for transportation devices, laptops, and networked hardware. The project focused on both **physical and electrical system improvements**, including battery wiring, inventory management, and operational cleanup.
