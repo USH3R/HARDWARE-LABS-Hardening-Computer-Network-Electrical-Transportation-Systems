@@ -1,3 +1,9 @@
+![Electrical](https://img.shields.io/badge/Electrical-Battery%20%26%20Wiring-orange) 
+![Scooters](https://img.shields.io/badge/Scooters-Repairs%20%26%20Maintenance-blue) 
+![Repairs](https://img.shields.io/badge/Repairs-Mechanical%20%26%20Electrical-green) 
+![Inventory](https://img.shields.io/badge/Inventory-Parts%20%26%20Tools-purple) 
+![Documentation](https://img.shields.io/badge/Documentation-Logs%20%26%20Cleanup-red)
+
 # 🛠️ Hardware & Transportation Maintenance
 
 **Focus:** ⚡ Electrical | 🛴 Scooters | 🔧 Repairs | 📦 Inventory | 📝 Cleanup & Documentation
