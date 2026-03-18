@@ -1,4 +1,6 @@
-# Physical, Electrical, and Transportation Systems
+# 🖥️ Cybersecurity & Hardening
+
+**Focus:** 🔒 Security | 💻 Computers | 📱 Mobile | 🌐 Networks | ⚡ PowerShell & AI
 
 ## I. Overview
 This folder documents the maintenance, security, and hardening of **physical devices, electrical systems, and transportation equipment**, including scooters and battery-powered devices. The goal is to ensure safety, reliability, and operational efficiency.
