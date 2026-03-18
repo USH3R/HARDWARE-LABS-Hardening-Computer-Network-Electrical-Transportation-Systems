@@ -1,3 +1,9 @@
+![Security](https://img.shields.io/badge/Focus-Security-blue) 
+![Computers](https://img.shields.io/badge/Computers-Laptops%20%26%20Desktops-green) 
+![Mobile](https://img.shields.io/badge/Mobile-Phones-yellow) 
+![Networks](https://img.shields.io/badge/Networks-WiFi%20%26%20Routers-purple) 
+![AI & PowerShell](https://img.shields.io/badge/AI%20%26%20PowerShell-Scripting-red)
+
 # 🖥️ Cybersecurity & Hardening
 
 **Focus:** 🔒 Security | 💻 Computers | 📱 Mobile | 🌐 Networks | ⚡ PowerShell & AI
