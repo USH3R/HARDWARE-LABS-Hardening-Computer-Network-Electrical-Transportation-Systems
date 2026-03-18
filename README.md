@@ -4,4 +4,9 @@ Does not include step-by-step procedures, diagrams, and maintenance best practic
 
 Scope: Cybersecurity + electrical + transportation systems
 Purpose: Documentation and hardening
-Format: Guides, diagrams, procedures
+Format: Other, may or may not includes guides, diagrams, procedures
+
+# Cyber and Physical Security Projects
+This repository documents two parallel security and maintenance projects:
+1. **Cybersecurity Hardening** – Securing computers, laptops, smartphones, and networks.
+2. **Physical Device Maintenance** – Scooter battery, wiring, and repair improvements.
